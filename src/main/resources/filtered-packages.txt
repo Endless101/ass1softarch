@@ -1,0 +1,1031 @@
+"hexo-cli"
+"dcl"
+"krb5"
+"lower-case"
+PackageResponse("hexo-cli",GithubMetrics(158,72,15,List(Contributor("jamiewq",1), Contributor("curbengh",31), Contributor("dependabot-preview[bot]",112), Contributor("yoshinorin",5), Contributor("JLHwung",7), Contributor("leesei",3), Contributor("NoahDragon",10), Contributor("xu-song",1), Contributor("brelian",1), Contributor("Xuanwo",2), Contributor("segayuu",6), Contributor("alefteris",1), Contributor("cokemine",1), Contributor("SukkaW",6), Contributor("tommy351",58), Contributor("stevenjoezhang",5), Contributor("dependabot[bot]",42), Contributor("tomap",8), Contributor("SumiMakito",1), Contributor("wyattjoh",1))),EvaluationMetrics(0.9265,93841.0,0.9))
+PackageResponse("dcl",GithubMetrics(75,10,9,List(Contributor("uhop",220), Contributor("greenkeeper[bot]",3), Contributor("dharkness",1))),EvaluationMetrics(0.997,567.6666666666666,0.9))
+PackageResponse("krb5",GithubMetrics(25,20,11,List(Contributor("gboutry",11), Contributor("alexcfyung",1), Contributor("RReivax",86), Contributor("wdavidw",48), Contributor("Pierrotws",29))),EvaluationMetrics(0.6,379.0,0.8308219178082192))
+PackageResponse("lower-case",GithubMetrics(1776,70,14,List(Contributor("syntactic-salt",1), Contributor("Shinigami92",1), Contributor("Whoaa512",2), Contributor("realityking",1), Contributor("TrySound",1), Contributor("mvargeson",2), Contributor("greenkeeper[bot]",5), Contributor("greenkeeperio-bot",2), Contributor("blakeembrey",96), Contributor("linkvt",1), Contributor("abdelrahman-elkady",1), Contributor("nrabins",1), Contributor("ptrkcsk",1), Contributor("ntnyq",1), Contributor("dependabot[bot]",131), Contributor("azu",1), Contributor("dcrockwell",1))),EvaluationMetrics(0.75,7.149445433333333E7,0.7622431506849314))
+PackageResponse("hexo-cli",Star Count: 158
+ Sum of top-3 contributors' commits: 212,Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+)
+"hexo-cli" Star Count: 158
+ Sum of top-3 contributors' commits: 212 Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"dcl" Star Count: 75
+ Sum of top-3 contributors' commits: 224 Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"krb5"
+ Star Count: 25
+ Sum of top-3 contributors' commits: 163
+ Tests: 0.6 
+ Download Count: 379.0
+ Release Frequency: 0.8308219178082192
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
