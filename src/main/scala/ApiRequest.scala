@@ -4,11 +4,11 @@
 package scala
 
 import scala.collection.mutable
-
-object ApiRequest extends App:
+object ApiRequest
+  // Helper classes to store data
   case class Contributor(username: String, commitCount: Int)
   case class Metadata(version: String)
-  case class EvaluationMetrics(tests: Double, downloadCount: Double, releaseFrequency: Double) {
+  case class EvaluationMetrics(tests: Double) {
     override def toString: String = {
       s"Tests: $tests \n Download Count: $downloadCount\n Release Frequency: $releaseFrequency\n"
     }
@@ -21,12 +21,16 @@ object ApiRequest extends App:
         .sum}"
     }
   }
+
+  // Main classes that represent packages
+
   case class Package(name: String)
   case class PackageResponse(name: String, githubMetrics: GithubMetrics, evaluationMetrics: EvaluationMetrics, metadata: Metadata) {
     override def toString: String = s"$name\n $githubMetrics\n $evaluationMetrics"
   }
 
-  //TODO Implement releases
+  // Process an API request into a PackageResponse object which contains all the relevant information
+  // for the filtering process 
 
   def processApiResponse(response: ujson.Value.Value): PackageResponse =
     val map = response("collected")
@@ -40,8 +44,6 @@ object ApiRequest extends App:
     val evaluationMetrics = response("evaluation")
     val evaluationMetricsObject = EvaluationMetrics(
       evaluationMetrics("quality")("tests").toString.toDouble,
-      evaluationMetrics("popularity")("downloadsCount").toString.toDouble,
-      evaluationMetrics("maintenance")("releasesFrequency").toString.toDouble)
     PackageResponse(name, githubMetricsObject, evaluationMetricsObject, metadataObject)
     
     
@@ -53,5 +55,4 @@ object ApiRequest extends App:
     val json = ujson.read(response.data.toString)
     json
 
- // println(processApiResponse(apiRequest(Package("hapi-decorators"))))
 

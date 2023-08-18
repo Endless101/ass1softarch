@@ -1029,3 +1029,129 @@ PackageResponse("hexo-cli",Star Count: 158
  Download Count: 7.149445433333333E7
  Release Frequency: 0.7622431506849314
 
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"hexo-cli"
+ Star Count: 158
+ Sum of top-3 contributors' commits: 212
+ Tests: 0.9265 
+ Download Count: 93841.0
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"dcl"
+ Star Count: 75
+ Sum of top-3 contributors' commits: 224
+ Tests: 0.997 
+ Download Count: 567.6666666666666
+ Release Frequency: 0.9
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
+"lower-case"
+ Star Count: 1776
+ Sum of top-3 contributors' commits: 232
+ Tests: 0.75 
+ Download Count: 7.149445433333333E7
+ Release Frequency: 0.7622431506849314
+
