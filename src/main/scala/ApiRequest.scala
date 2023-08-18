@@ -4,13 +4,13 @@
 package scala
 
 import scala.collection.mutable
-object ApiRequest
+object ApiRequest:
   // Helper classes to store data
   case class Contributor(username: String, commitCount: Int)
   case class Metadata(version: String)
   case class EvaluationMetrics(tests: Double) {
     override def toString: String = {
-      s"Tests: $tests \n Download Count: $downloadCount\n Release Frequency: $releaseFrequency\n"
+      s"Tests: $tests\n"
     }
   }
   case class GithubMetrics(starsCount: Int, forksCount: Int,subscriberCount: Int, contributor: List[Contributor]) {
@@ -43,13 +43,12 @@ object ApiRequest
     val githubMetricsObject = GithubMetrics(githubMetrics("starsCount").toString.toInt, githubMetrics("forksCount").toString.toInt, githubMetrics("subscribersCount").toString.toInt,contributors.toList)
     val evaluationMetrics = response("evaluation")
     val evaluationMetricsObject = EvaluationMetrics(
-      evaluationMetrics("quality")("tests").toString.toDouble,
+      evaluationMetrics("quality")("tests").toString.toDouble)
     PackageResponse(name, githubMetricsObject, evaluationMetricsObject, metadataObject)
     
     
 
   def apiRequest(packageObj: Package): ujson.Value.Value =
-
     val url = s"https://api.npms.io/v2/package/${packageObj.name}"
     val response = requests.get(url)
     val json = ujson.read(response.data.toString)

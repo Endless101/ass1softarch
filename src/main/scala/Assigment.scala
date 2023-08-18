@@ -25,7 +25,7 @@ object Assigment extends App{
   val apiBuffer = Flow[String].map {
     packageName =>
       Package(packageName)
-  }.buffer(25, OverflowStrategy.backpressure).throttle(1,2.seconds)
+  }.buffer(25, OverflowStrategy.backpressure)//.throttle(1,2.seconds)
 
   val apiFlow: Flow[Package, PackageResponse, NotUsed] = Flow[Package].map{
     pack =>
@@ -48,16 +48,15 @@ object Assigment extends App{
     Flow.fromGraph(GraphDSL.create() {
     implicit builder =>
       import GraphDSL.Implicits._
-aln
       val broadcaster = builder.add(Broadcast[PackageResponse](3))
       val merge = builder.add(Merge[PackageResponse](3))
       val pipe1, pipe2, pipe3 = builder.add(packageFilterFlow)
 
-      balancer.out(0) ~> pipe1 ~> merge.in(0)
-      balancer.out(1) ~> pipe2 ~> merge.in(1)
-      balancer.out(2) ~> pipe3 ~> merge.in(2)
-aln
+      broadcaster.out(0) ~> pipe1 ~> merge.in(0)
+      broadcaster.out(1) ~> pipe2 ~> merge.in(1)
+      broadcaster.out(2) ~> pipe3 ~> merge.in(2)
       FlowShape(broadcaster.in,merge.out)
+    })
 
   // Flow that converts each package to a Bytestring
   val flowOut = Flow[PackageResponse].map(pack=>s"${pack.toString}\n" ).map(s=>ByteString(s))
@@ -74,7 +73,7 @@ aln
     .via(flowOut)
     .alsoToMat(combinedSink)(Keep.right)
     g.run().onComplete(_ => actorSystem.terminate())
-    //TODO FIX WRITING TO FILE AND SHOWING TO SCREEN
 
 
-}
+
+  }
